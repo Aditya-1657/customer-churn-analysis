@@ -1,0 +1,17 @@
+              Model  Accuracy  Precision  Recall  F1-score  ROC-AUC
+Logistic Regression     0.806      0.659   0.559     0.605    0.842
+      Random Forest     0.761      0.534   0.783     0.635    0.843
+
+Top churn drivers (Random Forest feature importance):
+tenure                                  0.180675
+TotalCharges                            0.127160
+Contract_Two year                       0.124873
+MonthlyCharges                          0.080644
+InternetService_Fiber optic             0.079952
+PaymentMethod_Electronic check          0.060620
+Contract_One year                       0.047824
+OnlineSecurity_Yes                      0.035111
+TechSupport_Yes                         0.024552
+TechSupport_No internet service         0.022542
+DeviceProtection_No internet service    0.020589
+OnlineSecurity_No internet service      0.020043

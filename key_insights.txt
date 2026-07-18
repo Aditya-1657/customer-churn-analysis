@@ -1,0 +1,10 @@
+Total customers: 7043
+Churned customers: 1869
+Overall churn rate (%): 26.54
+Month-to-month churn rate (%): 42.71
+Two year contract churn rate (%): 2.83
+Fiber optic churn rate (%): 41.89
+Avg tenure - churned (months): 18.0
+Avg tenure - stayed (months): 37.6
+Avg monthly charges - churned ($): 74.44
+Avg monthly charges - stayed ($): 61.27
