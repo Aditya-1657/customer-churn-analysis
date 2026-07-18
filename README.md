@@ -77,5 +77,5 @@ jupyter notebook Customer_Churn_Analysis.ipynb
 ```
 
 ## Author
-*[Your Name]* — Aspiring Data Analyst
+*[Aditya Yadav]* — Aspiring Data Analyst
 [LinkedIn](#) · [Portfolio](#)
